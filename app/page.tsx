@@ -13,7 +13,7 @@ export default function Home() {
       {/* HERO */}
       <div className="container w-full h-full grid grid-cols-2 ">
         <div className="place-self-center justify-center">
-          <h1 className="text-7xl">Hello I'm Dylan Balagtas</h1>
+          <h1 className="text-7xl">Hello Im Dylan Balagtas</h1>
         </div>
         <div className="place-self-center justify-center">
           <h2 className="text-5xl ">
